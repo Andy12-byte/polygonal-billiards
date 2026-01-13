@@ -1,0 +1,8 @@
+/target/
+/out_svgs/
+/out_svgs_7gon/
+/results.csv
+/results_7gon.csv
+.DS_Store
+.idea/
+*.iml
